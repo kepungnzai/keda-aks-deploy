@@ -1,9 +1,0 @@
-operator:
-  replicaCount: 2
-
-metricsServer:
-  replicaCount: 2
-
-serviceAccount:
-  operator:
-    create: true
