@@ -1,0 +1,4 @@
+configMapGenerator:
+  - name: keda-values
+    files:
+      - values.yaml
