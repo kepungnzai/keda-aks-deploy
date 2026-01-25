@@ -2,7 +2,7 @@ operator:
   replicaCount: 1
 
 metricsServer:
-  replicaCount: 1
+  replicaCount: 2
 
 serviceAccount:
   operator:
